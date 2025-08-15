@@ -33,7 +33,7 @@ OnlineQuizApp/ │ ├── OnlineQuizApp.java    # Main Java source code ├�
 
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/your-username/OnlineQuizApp.git
+   git clone https://github.com/Sudarshanganwani9/Java-Online-quiz-app
    cd OnlineQuizApp
 
 2. Compile the Java program
